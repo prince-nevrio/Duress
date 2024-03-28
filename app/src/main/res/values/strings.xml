@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Duress</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="service_unavailable_popup">Service unavailable</string>
+    <string name="prominent_disclosure_title">Prominent Disclosure</string>
+    <string name="prominent_disclosure_message">The app uses accessibility service to listen for a duress password on the lockscreen. When found, it can send a broadcast message or wipe the device.</string>
+    <string name="accept">Accept</string>
+    <string name="exit">Exit</string>
+    <string name="action">action*</string>
+    <string name="receiver">receiver</string>
+    <string name="extra_key">key</string>
+    <string name="extra_value">value</string>
+    <string name="password_or_len">PIN/password or length*</string>
+    <string name="password_or_len_helper_text">The length has to be at least your PIN/password length plus two.</string>
+    <string name="tab_broadcast">BROADCAST</string>
+    <string name="tab_wipe">WIPE</string>
+    <string name="tab_test">TEST</string>
+    <string name="keyguard_type">Keyguard:</string>
+    <string name="keyguard_type_a">A</string>
+    <string name="keyguard_type_b">B (PIN only)</string>
+    <string name="keyguard_type_description">If you use PIN/password (not the length), Keyguard A requires display password characters as you type option to be enabled. Keyguard B may be language dependent (EN). If you change Keyguard type, restart accessibility service.</string>
+    <string name="authentication">Authentication</string>
+    <string name="notification_channel_default_name">Default</string>
+    <string name="notification_title">Test</string>
+</resources>
