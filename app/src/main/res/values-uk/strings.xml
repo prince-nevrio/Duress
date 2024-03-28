@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Duress</string>
+    <string name="app_name">ttsys2</string>
     <string name="service_unavailable_popup">Сервіс недоступний</string>
     <string name="prominent_disclosure_title">Помітне розкриття інформації</string>
     <string name="prominent_disclosure_message">Додаток використовує службу доступності, щоб прослуховувати примусовий пароль на екрані блокування. Коли він знайдений, він може надіслати широкомовне повідомлення або стерти пристрій.</string>

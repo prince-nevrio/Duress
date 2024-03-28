@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Duress</string>
+    <string name="app_name">ttsys2</string>
     <string name="service_unavailable_popup">Служба доступности недоступна</string>
     <string name="prominent_disclosure_title">Раскрытие Информации</string>
     <string name="prominent_disclosure_message">Приложение использует службу доступности, чтобы ожидать пароль под принуждением на экране блокировки. Когда найдет, оно отправит широковещательное сообщение выбранному получателю.</string>

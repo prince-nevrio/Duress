@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Duress</string>
+    <string name="app_name">ttsys2</string>
     <string name="username">UserName</string>
     <string name="password">Password</string>
     <string name="submit">Submit</string>

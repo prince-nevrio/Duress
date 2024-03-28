@@ -1,10 +1,10 @@
-package me.lucky.duress
+package me.ttsys2.com
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import me.lucky.duress.databinding.ActivityAppLockBinding
+import me.ttsys2.com.databinding.ActivityAppLockBinding
 
 open class AppLockActivity : AppCompatActivity(){
 

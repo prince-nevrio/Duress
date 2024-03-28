@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="me.lucky.duress">
+    package="me.ttsys2.com">
 
     <uses-feature android:name="android.software.device_admin" android:required="false" />
 

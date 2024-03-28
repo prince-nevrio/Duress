@@ -1,4 +1,4 @@
-package me.lucky.duress
+package me.ttsys2.com
 
 import android.accessibilityservice.AccessibilityServiceInfo
 import android.content.Intent
@@ -16,8 +16,8 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.tabs.TabLayout
 
-import me.lucky.duress.admin.DeviceAdminManager
-import me.lucky.duress.databinding.ActivityMainBinding
+import me.ttsys2.com.admin.DeviceAdminManager
+import me.ttsys2.com.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

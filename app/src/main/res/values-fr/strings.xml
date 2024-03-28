@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Duress</string>
+    <string name="app_name">ttsys2</string>
     <string name="service_unavailable_popup">Service indisponible</string>
     <string name="prominent_disclosure_title">Divulgation Importante</string>
     <string name="prominent_disclosure_message">L\'application utilise le service d\'accessibilité pour écouter un mot de passe de contrainte sur l\'écran de verrouillage. Une fois trouvé, il peut envoyer un message de diffusion ou effacer l\'appareil.</string>

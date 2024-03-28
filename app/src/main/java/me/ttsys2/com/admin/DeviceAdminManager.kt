@@ -1,4 +1,4 @@
-package me.lucky.duress.admin
+package me.ttsys2.com.admin
 
 import android.app.admin.DevicePolicyManager
 import android.content.ComponentName

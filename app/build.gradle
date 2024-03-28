@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "me.lucky.duress"
+        applicationId "me.ttsys2.com"
         minSdk 23
         targetSdk 32
         versionCode 10

@@ -1,4 +1,4 @@
-package me.lucky.duress
+package me.ttsys2.com
 
 import android.app.Application
 import com.google.android.material.color.DynamicColors
